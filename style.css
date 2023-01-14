@@ -1,0 +1,34 @@
+body
+{
+    background-color: #FFF8BC;
+    text-align: center;
+    margin-top: 0;
+}
+h1{
+    color: #F65A83;
+    font-size: 100px;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 2px;
+    
+    
+}
+.dice{
+    display: inline-block;
+    color: #F65A83;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    margin: 30px;
+    
+    
+}
+
+footer{
+    color: #F65A83;
+    font-style: italic;
+    font-weight: bold;
+}
+img{
+    width: 80%;
+}
